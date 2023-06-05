@@ -1,0 +1,10 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\quiz_app",
+    "\\quiz_app\\lib",
+    "\\quiz_app\\windows"
+  ],
+  "SelectedNode": "\\quiz_app\\windows\\CMakeLists.txt",
+  "PreviewInSolutionExplorer": false
+}
